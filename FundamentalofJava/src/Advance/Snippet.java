@@ -1,0 +1,11 @@
+package Advance;
+
+public class Snippet {
+	public static void main(String[] args) {
+			// change data type of string to integer
+			String x = "10";
+			int y = 5;
+			int z= Integer.parseInt(x)+y ;
+			System.out.println(z);
+}
+
